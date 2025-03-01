@@ -1,22 +1,28 @@
 body {
   background: black;
-  font-family: san-serif;
+  font-family: arial;
   color: #fff;
 }
 
 .opentxt {
-  line-height: 1.89em;
-  width: 500px;
-  margin: 10px;
-  padding: 0 0 0 415px;
+   display: flex;
+    max-width: 800px;
+    padding: 0 0 0 50px;
+    border-radius: 8px;
 }
 
 .Headshot {
-  padding: 200px 0 0 500px;
+  padding: 150px 0 0 900px;
 }
 
 .Aboutme {
-  padding: 0 0 0 500px;
+  padding: 0 0 0 605px;
+  position: relative;
+}
+
+.NH {
+  padding: 0 250px 0 250px;
+  position: relative;
 }
 
 .Dogimgs {
@@ -24,11 +30,13 @@ body {
 }
 
 .Intreststitle {
-  padding: 0 0 0 500px;
+  padding: 0 0 0 605px;
+  position: relative;
 }
 
 .intreststxt {
- padding: 0 0 0 500px;
+  padding: 0 250px 0 250px;
+  position: relative;
 }
 
 .links {
@@ -36,9 +44,17 @@ body {
 }
 
 h1 {
-  padding-left: 200px;
-  top: 10px;
+  padding-left: 290px;
+  top: 40px;
+  font-size: 50px;
+  font-family: San-serif;
   position: absolute;
+}
+
+.inside {
+    padding: 0 0 0 900px;
+    top: 25px; 
+    position: absolute;
 }
 
 
