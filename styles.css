@@ -1,1 +1,38 @@
+body {
+  background: black;
+  font-family: san-serif;
+  color: #fff;
+}
+
+.opextxt {
+  line-height: 1.89em;
+  width: 500px;
+  margin: 10px;
+  padding: 0 0 0 415px;
+}
+
+.headshot {
+  padding: 200px 0 0 500px;
+}
+
+.Aboutme {
+  padding: 0 0 75px 350px;
+}
+
+.Dogimgs {
+  padding: 0 0 0 500px;
+}
+
+.Intreststitle {
+  padding: 0 0 0 500px;
+}
+
+.intreststxt {
+  padding: 0 0 75px 350px;
+}
+
+.links {
+  padding: 0 0 0 500px;
+}
+
 
