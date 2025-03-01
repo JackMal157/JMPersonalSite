@@ -5,37 +5,33 @@ body {
 }
 
 .opentxt {
-   display: flex;
+    display: flex;
     max-width: 800px;
-    padding: 0 0 0 50px;
+    padding: 170px 0 0 300px;
     border-radius: 8px;
 }
 
-.Headshot {
-  padding: 150px 0 0 900px;
-}
-
 .Aboutme {
-  padding: 0 0 0 605px;
+  padding: 50px 0 0 605px;
   position: relative;
 }
 
 .NH {
-  padding: 0 250px 0 250px;
+  padding: 0 220px 0 230px;
   position: relative;
 }
 
 .Dogimgs {
-  padding: 0 0 0 500px;
+  padding: 0 0 0 360px;
 }
 
 .Intreststitle {
-  padding: 0 0 0 605px;
+  padding: 20px 0 0 605px;
   position: relative;
 }
 
 .intreststxt {
-  padding: 0 250px 0 250px;
+  padding: 0 220px 0 230px;
   position: relative;
 }
 
@@ -47,12 +43,12 @@ h1 {
   padding-left: 290px;
   top: 40px;
   font-size: 50px;
-  font-family: San-serif;
+  font-family: Georgia;
   position: absolute;
 }
 
 .inside {
-    padding: 0 0 0 900px;
+    padding: 0 0 0 820px;
     top: 25px; 
     position: absolute;
 }
