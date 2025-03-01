@@ -16,7 +16,7 @@ body {
 }
 
 .Aboutme {
-  padding: 0 0 75px 350px;
+  padding: 0 0 0 500px;
 }
 
 .Dogimgs {
@@ -28,11 +28,25 @@ body {
 }
 
 .intreststxt {
-  padding: 0 0 75px 350px;
+ padding: 0 0 0 500px;
 }
 
 .links {
   padding: 0 0 0 500px;
 }
+
+h1 {
+  padding-left: 200px;
+  top: 10px;
+  position: absolute;
+}
+
+p {
+    line-height: 1.2em;
+    width: 800px;
+    margin: 8px;
+}
+
+
 
 
